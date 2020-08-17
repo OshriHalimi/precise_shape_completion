@@ -3,7 +3,7 @@
 
 Created by [Oshri Halimi](https://www.linkedin.com/in/oshri-halimi-a160772b) & [Ido Imanuel](https://www.linkedin.com/in/ido-imanuel), [Or Litany](https://orlitany.github.io/) and [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini) under the supervision of Professors [Emanuele Rodolà](https://sites.google.com/site/erodola/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Ron Kimmel](https://www.cs.technion.ac.il/~ron/)
 
-### The code and pre-trained models will be available soon.
+### The code and pre-trained models will be available soon. In the meantime, please take a look at the old repository [here](https://github.com/OshriHalimi/shape_completion)
 
 ### Citation
 arXiv version: https://arxiv.org/abs/2001.09650
