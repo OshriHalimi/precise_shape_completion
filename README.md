@@ -1,7 +1,7 @@
 # [ECCV 2020] Towards Precise Completion of Deformable Shapes
 ![Teaser_Final](https://user-images.githubusercontent.com/23263917/70379067-edfb1080-1930-11ea-8c56-83328f6f299f.png)
 
-Created by [Oshri Halimi](https://www.linkedin.com/in/oshri-halimi-a160772b) & [Ido Imanuel](https://www.linkedin.com/in/ido-imanuel), [Or Litany](https://orlitany.github.io/), [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini) under the supervision of Professors [Emanuele Rodolà](https://sites.google.com/site/erodola/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Ron Kimmel](https://www.cs.technion.ac.il/~ron/)
+Created by [Oshri Halimi](https://www.linkedin.com/in/oshri-halimi-a160772b) & [Ido Imanuel](https://www.linkedin.com/in/ido-imanuel), [Or Litany](https://orlitany.github.io/) and [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini) under the supervision of Professors [Emanuele Rodolà](https://sites.google.com/site/erodola/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Ron Kimmel](https://www.cs.technion.ac.il/~ron/)
 
 ### The code and pre-trained models will be available soon.
 
