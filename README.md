@@ -1,8 +1,9 @@
-[ECCV 2020] Towards Precise Completion of Deformable Shapes
-Created by Oshri Halimi & Ido Imanuel, Or Litany, Giovanni Trappolini under the supervision of Professors Emanuele Rodolà, Leonidas Guibas, Ron Kimmel
+# [ECCV 2020] Towards Precise Completion of Deformable Shapes
+Created by [Oshri Halimi](https://www.linkedin.com/in/oshri-halimi-a160772b) & [Ido Imanuel](https://www.linkedin.com/in/ido-imanuel), [Or Litany](https://orlitany.github.io/), [Giovanni Trappolini](https://sites.google.com/view/giovannitrappolini) under the supervision of Professors [Emanuele Rodolà](https://sites.google.com/site/erodola/), [Leonidas Guibas](https://geometry.stanford.edu/member/guibas/), [Ron Kimmel](https://www.cs.technion.ac.il/~ron/)
 
-The code and pre-trained models will be available soon.
-Citation
+### The code and pre-trained models will be available soon.
+
+### Citation
 arXiv version: https://arxiv.org/abs/2001.09650
 [Currently under prior name "The Whole Is Greater Than the Sum of Its Nonrigid Parts"]
 
@@ -17,5 +18,5 @@ Preprint:
   year={2020}
 }
 
-License
+### License
 Our code is released under MIT License (see LICENSE file for details).
